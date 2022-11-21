@@ -1,0 +1,22 @@
+.top{
+  background-color: #1B1A17;
+  padding: 3%;
+}
+
+h1, h5{
+  color: #F0A500;
+}
+
+.info{
+  text-align: center;
+  background-color: #1B1A17;
+  padding: 3%;
+  color: #E6D5B8;
+}
+
+#Reviews{
+padding: 5%;
+background-color: #1B1A17;
+color: #E6D5B8;
+border: 1px;
+}
